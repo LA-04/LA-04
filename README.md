@@ -14,4 +14,4 @@
 
 ## 🤝 Connect with me
 
-![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)(https://t.me/Hakuunamataata)
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Hakuunamataata)
